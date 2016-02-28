@@ -1,5 +1,4 @@
 # github.io
-Personal Website
 
 Here is my example:
 http://stevenspinoza.github.io/
