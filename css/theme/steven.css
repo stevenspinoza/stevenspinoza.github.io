@@ -25,16 +25,16 @@ p {
 }
 
 /* line 59, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
-.reveal section img {
+.reveal section img, .reveal .progress span {
   background: #fff !important;
 }
 
-/* line 65, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
+/* line 63, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
 form button, input, textarea {
   color: #000 !important;
 }
 
-/* line 69, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
+/* line 67, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
 .reveal .controls {
   mix-blend-mode: difference !important;
 }

@@ -56,11 +56,9 @@ p {
 	filter: progid:DXImageTransform.Microsoft.Glow(Color=#000000,Strength=4); /* IE<10 */
 }
 
-.reveal section img {
+.reveal section img, .reveal .progress span {
     background: #fff !important;
 }
-
-
 
 form button, input, textarea {
 	color: #000 !important;
