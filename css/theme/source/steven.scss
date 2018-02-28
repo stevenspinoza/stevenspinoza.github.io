@@ -28,7 +28,8 @@ $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
-$linkColor: #fff;
+/* $linkColor: #fff; */
+$linkColor: #0ff;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
@@ -63,6 +64,10 @@ p {
 
 form button, input, textarea {
 	color: #000 !important;
+}
+
+.reveal .controls {
+	mix-blend-mode: difference !important;
 }
 
 

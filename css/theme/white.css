@@ -102,11 +102,10 @@ body {
 .reveal p {
   margin: 20px 0;
   line-height: 1.3;
-  /* -webkit-text-stroke: 2px #000; */
 }
 
 /* Ensure certain elements are never larger than the slide itself */
-/* line 84, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 83, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal img,
 .reveal video,
 .reveal iframe {
@@ -114,18 +113,18 @@ body {
   max-height: 95%;
 }
 
-/* line 90, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 89, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal strong,
 .reveal b {
   font-weight: bold;
 }
 
-/* line 95, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 94, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal em {
   font-style: italic;
 }
 
-/* line 99, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 98, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ol,
 .reveal dl,
 .reveal ul {
@@ -134,27 +133,27 @@ body {
   margin: 0 0 0 1em;
 }
 
-/* line 108, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 107, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ol {
   list-style-type: decimal;
 }
 
-/* line 112, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 111, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ul {
   list-style-type: disc;
 }
 
-/* line 116, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 115, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ul ul {
   list-style-type: square;
 }
 
-/* line 120, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 119, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ul ul ul {
   list-style-type: circle;
 }
 
-/* line 124, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 123, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal ul ul,
 .reveal ul ol,
 .reveal ol ol,
@@ -163,23 +162,23 @@ body {
   margin-left: 40px;
 }
 
-/* line 132, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 131, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal dt {
   font-weight: bold;
 }
 
-/* line 136, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 135, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal dd {
   margin-left: 40px;
 }
 
-/* line 140, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 139, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal q,
 .reveal blockquote {
   quotes: none;
 }
 
-/* line 145, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 144, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal blockquote {
   display: block;
   position: relative;
@@ -191,18 +190,18 @@ body {
   box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
 }
 
-/* line 156, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 155, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
   display: inline-block;
 }
 
-/* line 161, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 160, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal q {
   font-style: italic;
 }
 
-/* line 165, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 164, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal pre {
   display: block;
   position: relative;
@@ -216,12 +215,12 @@ body {
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
 }
 
-/* line 180, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 179, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal code {
   font-family: monospace;
 }
 
-/* line 184, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 183, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal pre code {
   display: block;
   padding: 5px;
@@ -230,19 +229,19 @@ body {
   word-wrap: normal;
 }
 
-/* line 192, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 191, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table {
   margin: auto;
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 198, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 197, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table th {
   font-weight: bold;
 }
 
-/* line 202, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 201, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table th,
 .reveal table td {
   text-align: left;
@@ -250,35 +249,35 @@ body {
   border-bottom: 1px solid;
 }
 
-/* line 209, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 208, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table th[align="center"],
 .reveal table td[align="center"] {
   text-align: center;
 }
 
-/* line 214, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 213, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table th[align="right"],
 .reveal table td[align="right"] {
   text-align: right;
 }
 
-/* line 219, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 218, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
   border-bottom: none;
 }
 
-/* line 224, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 223, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal sup {
   vertical-align: super;
 }
 
-/* line 227, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 226, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal sub {
   vertical-align: sub;
 }
 
-/* line 231, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 230, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal small {
   display: inline-block;
   font-size: 0.6em;
@@ -286,7 +285,7 @@ body {
   vertical-align: top;
 }
 
-/* line 238, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 237, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal small * {
   vertical-align: top;
 }
@@ -294,7 +293,7 @@ body {
 /*********************************************
  * LINKS
  *********************************************/
-/* line 247, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 246, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal a {
   color: #2a76dd;
   text-decoration: none;
@@ -303,14 +302,14 @@ body {
   transition: color .15s ease;
 }
 
-/* line 255, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 254, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal a:hover {
   color: #6ca0e8;
   text-shadow: none;
   border: none;
 }
 
-/* line 262, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 261, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .roll span:after {
   color: #fff;
   background: #1a53a1;
@@ -319,7 +318,7 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
-/* line 272, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 271, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
@@ -327,20 +326,20 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 
-/* line 280, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 279, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal section img.plain {
   border: 0;
   box-shadow: none;
 }
 
-/* line 285, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 284, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal a img {
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
   transition: all .15s linear;
 }
 
-/* line 291, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 290, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
   border-color: #2a76dd;
@@ -350,46 +349,46 @@ body {
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
-/* line 303, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 302, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
   border-right-color: #2a76dd;
 }
 
-/* line 308, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 307, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-right,
 .reveal .controls .navigate-right.enabled {
   border-left-color: #2a76dd;
 }
 
-/* line 313, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 312, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-up,
 .reveal .controls .navigate-up.enabled {
   border-bottom-color: #2a76dd;
 }
 
-/* line 318, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 317, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-down,
 .reveal .controls .navigate-down.enabled {
   border-top-color: #2a76dd;
 }
 
-/* line 323, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 322, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-left.enabled:hover {
   border-right-color: #6ca0e8;
 }
 
-/* line 327, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 326, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-right.enabled:hover {
   border-left-color: #6ca0e8;
 }
 
-/* line 331, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 330, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-up.enabled:hover {
   border-bottom-color: #6ca0e8;
 }
 
-/* line 335, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 334, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .controls .navigate-down.enabled:hover {
   border-top-color: #6ca0e8;
 }
@@ -397,12 +396,12 @@ body {
 /*********************************************
  * PROGRESS BAR
  *********************************************/
-/* line 344, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 343, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
 }
 
-/* line 347, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
+/* line 346, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/template/theme.scss */
 .reveal .progress span {
   background: #2a76dd;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
