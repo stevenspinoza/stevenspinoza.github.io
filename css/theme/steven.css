@@ -29,8 +29,8 @@ p {
 }
 
 /* line 64, C:/xampp/htdocs/stevenspinoza.github.io/css/theme/source/steven.scss */
-form button {
-  color: #000;
+form button, input, textarea {
+  color: #000 !important;
 }
 
 /*********************************************
